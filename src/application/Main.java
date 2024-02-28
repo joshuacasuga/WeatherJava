@@ -68,7 +68,6 @@ import javafx.util.Duration;
 
 public class Main extends Application {
 
-  // please do not leak this key i will kill you
   public final static String map = "273a346184cebe767ac61195101d83ae";
 
   public static String city = "";
