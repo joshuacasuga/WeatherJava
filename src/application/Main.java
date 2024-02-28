@@ -1964,7 +1964,6 @@ public class Main extends Application {
     System.out.println(forecastData);
     System.out.println(night);
 
-    // could use a zero constructor but... whatever...
     forecastTemp.clear();
     forecastDescr.clear();
     forecastHigh.clear();
