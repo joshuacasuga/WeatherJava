@@ -68,7 +68,7 @@ import javafx.util.Duration;
 
 public class Main extends Application {
 
-  public final static String map = "273a346184cebe767ac61195101d83ae";
+  public final static String map = "API KEY";
 
   public static String city = "";
 
